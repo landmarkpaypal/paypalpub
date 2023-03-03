@@ -6,4 +6,4 @@ service serviceName arguments
   systemctl arguments serviceName
   systemctl stop/start/status/enable/disable/restart sshd 
   systemctl start/stop/status httpd  
-  systemctl 
+ 
