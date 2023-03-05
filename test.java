@@ -11,3 +11,5 @@ pgrep
 pidof
 ps -C
 service --active
+go/goland
+hi rev 
